@@ -3,7 +3,7 @@
 ###  :desktop_computer: Tela
 
 <div align="center">
-  <img alt="Tela" title="#Tela" width="100%" height="auto" src="./README/tela.png" />
+  <img alt="Tela" title="#Tela" width="50%" height="auto" src="./README/tela.png" />
 </div>
 
 ----------
