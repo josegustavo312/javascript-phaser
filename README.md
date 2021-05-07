@@ -1,6 +1,6 @@
 ## Jogo com Phaser
 
-###  :computer: Tela
+###  :desktop_computer: Tela
 
 <div align="center">
   <img alt="Tela" title="#Tela" width="100%" height="auto" src="./README/tela.png" />
@@ -9,20 +9,20 @@
 ----------
 
 ### :hammer_and_wrench: Ferramentas
-As seguintes tecnologias foram utilizadas na construÁ„o do projeto:
+As seguintes tecnologias foram utilizadas na constru√ß√£o do projeto:
 - Phaser;
 - HTML;
 - JavaScript.
 
 ----------
 
-###  :gear: FunÁ„o
-- [x] Coletar estrelas com o herÛi intergal·ctico.
+###  :gear: Fun√ß√£o
+- [x] Coletar estrelas com o her√≥i intergal√°ctico.
 
 ----------
 
 ###  :eyeglasses: Autor
-JosÈ Gustavo da Silva.
+Jos√© Gustavo da Silva.
 [
 **Linkedin**
 ](https://www.linkedin.com/in/jose-gustavo312/)
